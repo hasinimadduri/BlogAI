@@ -1,6 +1,6 @@
-# AI Insight – AI Blog Generator
+# # Blog AI – AI Blog Generator
 
-AI Insight is a modern web application that generates blog content using AI.
+# Blog AI is a modern web application that generates blog content using AI.
 It allows users to quickly create structured blog posts based on a topic or title input.
 
 ## Features
